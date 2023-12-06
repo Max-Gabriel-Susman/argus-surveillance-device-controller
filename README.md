@@ -10,4 +10,4 @@ I used a couple of resources to help kickstart this project, I included them her
 
 Docs for initial access point setup: https://docs.arduino.cc/tutorials/uno-wifi-rev2/uno-wifi-r2-web-server-ap-mode
 
-Docs for initial camera setup: 
+Docs for initial camera setup: https://www.arducam.com/docs/arducam-mega/arducam-mega-getting-started/packs/getStarted.html
